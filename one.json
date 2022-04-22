@@ -1,0 +1,31 @@
+[
+    {
+    "process_id": 100,
+    "key": "ssn"
+    },
+    {
+    "process_id": 101,
+    "key": "ssn"
+    },
+    {
+    "process_id": 200,
+    "key": "Document verification"
+    },
+    {
+    "process_id": 201,
+    "key": "Driving License"
+    },
+    {
+    "process_id": 202,
+    "key": "Passport"
+    },
+    {
+    "process_id": 300,
+    "key": "Biometric"
+    },
+    {
+    "process_id": 301,
+    "key": "Biometric with video"
+    }
+]
+    
