@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 
 
+
 with open(r'json merging2\one.json') as json_file:
     data1 = json.load(json_file)
 with open(r'json merging2\two.json') as json_file:
